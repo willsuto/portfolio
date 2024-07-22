@@ -6,9 +6,12 @@ function ContactCard() {
       <h2 className="text-lg font-bold mb-4">Contact</h2>
       <ul>
         <li className="text-gray-700 mb-2">Email: <a href="mailto:will.suto@gmail.com" className="text-blue-500 hover:underline">will.suto@gmail.com</a></li>
+        <br></br>
         <li className="text-gray-700">
           <a href="http://linkedin.com/in/willsuto" className="text-blue-500 hover:underline">LinkedIn</a>
         </li>
+        <br></br>
+        <li>(404) 200-7026</li>
       </ul>
     </div>
   );
